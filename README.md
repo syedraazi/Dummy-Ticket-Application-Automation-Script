@@ -1,1 +1,1 @@
-# Dummy-Ticket-Application-Automation-Script
+# Dummy Ticket Application Automation-Script
